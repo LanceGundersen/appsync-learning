@@ -32,7 +32,7 @@ class App extends React.Component {
                 <Segment className="inverted center aligned" style={{minHeight: "200px"}}>
                     <Container>
                         <Header as='h1' textAlign='center' style={{marginTop: '2em', color: 'white'}}>
-                            Welcome to QuizBiz! This should be fun.
+                            Welcome to QuizBiz! This should be fun. Attempting to build again.
                         </Header>
                     </Container>
                 </Segment>
